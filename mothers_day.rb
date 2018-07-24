@@ -5,7 +5,7 @@ def mothers_day
 end
 mothers_day
 
-def mothers_day1(name1)
+def mothers_day1(name1 = "Mom")
   puts "Happy Mothers Day, #{name1}!"
 end
 puts "What name?"
