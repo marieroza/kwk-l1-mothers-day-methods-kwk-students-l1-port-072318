@@ -8,7 +8,6 @@ mothers_day
 def mothers_day1(name1 = "Mom")
   puts "Happy Mothers Day, #{name1}!"
 end
-puts "What name?"
 mothers_day1("Beyonce")
 
 
